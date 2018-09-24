@@ -1,0 +1,9 @@
+  <!-- Stylesheets -->
+    <link rel="stylesheet" href="{{asset ('public/frontEnd/css/bootstrap.min.css')}}"/>
+    <link rel="stylesheet" href="{{asset ('public/frontEnd/css/reset.css')}}"/>
+    <link rel="stylesheet" href="{{asset('public/frontEnd/css/cubeportfolio.min.css')}}"/>
+    <link rel="stylesheet" href="{{asset('public/frontEnd/css/owl.carousel.min.css')}}">
+    <link rel="stylesheet" href="{{asset('public/frontEnd/css/owl.theme.default.min.css')}}">
+    <link rel="stylesheet" href="{{asset('public/frontEnd/css/magnific-popup.css')}}"/>
+    <link rel="stylesheet" href="{{asset('public/frontEnd/css/animate.css')}}"/>
+    <link rel="stylesheet" href="{{asset('public/frontEnd/css/style.css')}}"/>
